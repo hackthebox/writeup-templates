@@ -30,6 +30,10 @@ Root: `<md5>`
 
 
 
+# Foothold
+
+
+
 # Lateral Movement
 
 
