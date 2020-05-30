@@ -14,15 +14,17 @@
 
 
 
-### Description
+### Description:
 
-
+This challenge...
 
 ### Objective
 
 Find a logic bug through source code auditing.
 
-### Difficulty: `easy`
+### Difficulty:
+
+`easy`
 
 ### Flag:
 
