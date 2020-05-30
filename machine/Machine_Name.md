@@ -14,11 +14,13 @@
 
 
 
-### Description
+### Description:
 
+This machine...
 
+### Difficulty:
 
-### Difficulty: `easy`
+`easy`
 
 ### Flags:
 
