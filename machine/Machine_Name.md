@@ -1,4 +1,4 @@
-![](assets/images/header.png)
+![](assets/images/banner.png)
 
 
 
@@ -6,7 +6,7 @@
 
 ​		DD<sup>th</sup> Month YYYY
 
-​		Machine Creator(s): 
+​		Machine Author(s): 
 
 ​		
 
