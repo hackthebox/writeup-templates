@@ -16,11 +16,8 @@
 
 ### Description:
 
-This challenge...
-
-### Objective
-
-Find a logic bug through source code auditing.
+You are need to get the flag from a python code converts every character to it's position in alphabet
+Good luck!
 
 ### Difficulty:
 
@@ -28,17 +25,8 @@ Find a logic bug through source code auditing.
 
 ### Flag:
 
-`HTB{s0me_fl4g_her3}`
+HTB{ha3k_th5_b0x_is_th5_gr51test}
 
-
-
-# Challenge
-
-
-
-# Solver
-
-```python
-
-```
+# How to solve
+You are need only to reverse the operations to get the flag
 
