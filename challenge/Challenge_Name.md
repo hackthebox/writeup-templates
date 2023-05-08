@@ -6,10 +6,8 @@
 
 Kill The Password
 
-​		Challenge Author(s): 
+​   Challenge Author(s): 
           SUHAYB234
-​		
-
  
 
 
